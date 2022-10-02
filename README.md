@@ -78,7 +78,7 @@ github:USERNAME
 
 ```py
 '''
-Always make more then 4 pull requests.
+Always make more than 4 pull requests.
 Lets say you have made only 4 pull request to different projects,
 but one project is excluded from hackoctoberfest event then your pull request will not be counted and 
 then you have remaining 3 valid pull requests if these projects is not excluded.
